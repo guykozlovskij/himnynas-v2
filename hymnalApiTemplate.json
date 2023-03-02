@@ -1,10 +1,10 @@
 [
   {
     "number": -1,
-    "title": "TRIVIENIO DIEVO PALAIMINIMAS GYRIUS JAM",
+    "title": "",
     "alt-lang": [
-      "R4",
-      "A7"
+      "",
+      ""
     ],
     "verses": [
       [
@@ -35,13 +35,27 @@
     "chorus": [
 
     ],
+    "chorus-2": [
+
+    ],
+    "chorus-3": [
+
+    ],
+    "chorus-4": [
+
+    ],
+    "chorus-5": [
+
+    ],
     "chorus-additional": [
 
     ],
     "hymnal-net-url": [
 
-    ]
+    ],
+    "supplementary-text": [
 
+    ]
   }
   
 ]
